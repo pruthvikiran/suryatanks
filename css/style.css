@@ -444,7 +444,7 @@ a.welcome-control:focus, a.welcome-control:hover i {
 .slider-sec{
 text-align:center;
 position: relative;
-    background:url(../images/banner.jpg);
+    background:url(../images/banner.JPG);
     background-size: cover;
     z-index: 1;
 }
