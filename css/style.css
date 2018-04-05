@@ -177,6 +177,7 @@ width:80%;
 	left: 0;
 	position: fixed;
 	top: 0;
+	background-color: #000000bf;
 	width: 100%;
 	z-index: 9999;
 	-webkit-transition: .4s;
